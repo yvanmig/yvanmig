@@ -1,14 +1,14 @@
-### Hi there, I'm Yvan Gimard 👋
-Je suis Ingénieur Développeur Web Fullstack, spécialisé en PHP et Javascript, avec les frameworks Symfony, [Vue](https://vuejs.org/) et [React](https://react.dev/). Je suis passionné par la création d'applications web, de la mise en place d'interfaces claires et fluides jusqu'à l'élaboration de backends optimisés qui aident les utilisateurs à prendre le contrôle de leur site et les accompagnent dans leurs missions.
+### Hello there, I'm Yvan Gimard 👋
+Je suis Ingénieur Web Fullstack, spécialisé en PHP et Javascript, avec les frameworks Symfony, [Vue](https://vuejs.org/) et [React](https://react.dev/). Je suis passionné par la création d'applications web, depuis la mise en place d'interfaces dynamiques jusqu'à l'élaboration de traitements complexes et automatisés
 
-Je suis actuellement à la recherche d'un poste dans le développement web qui concernent le frontend ou backend, ainsi que les missions mélangeant ces deux aspects.
+
 
 📚 Mes compétences
 
- - 🖥️ Création d'applications web sous les frameworks **Symfony** et **Sylius**
+ - 🖥️ Création d'applications web avec **Symfony**
  - ⚡ Elaboration d'interfaces dynamiques avec **Vue** et **React**
- - 💾 Gestion de bases de données **relationnelles** mais aussi non relationnelles avec **MongoDB**
- - 📖 Apprentissage de nouvelles technologies
+ - 💾 Traitement de données et optimisations des requêtes pour aller toujours plus loin dans l'analyse d'informations
+ - 📖 Apprentissage de nouvelles technologies et languages de programmation
 
 ### Rencontrons-nous !
 
